@@ -1,6 +1,6 @@
 // ccsdrvTest.cpp : Defines the class behaviors for the application.
 //
-// Copyright (C) 2000-2014
+// Copyright (C) 2000-2020
 // Ake Hedman, Grodans Paradis AB, <akhe@grodansparadis.com>
 
 #include "stdafx.h"

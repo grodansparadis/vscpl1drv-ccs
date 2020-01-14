@@ -1,6 +1,6 @@
 // ccsdrvTestDlg.cpp : implementation file
 //
-// Copyright (C) 2000-2014
+// Copyright (C) 2000-2020
 // Ake Hedman, Grodans Paradis AB, <akhe@grodansparadis.com>
 
 #include "stdafx.h"
